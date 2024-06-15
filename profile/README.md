@@ -1,7 +1,3 @@
-# Whiskers Color Scheme
-> [!NOTE]
-> Work In Progress
-
 # Welcome 
 Welcome to Whiskers. This is a color scheme that (hopefully) will grow as time goes on.
 We have two variants of the theme called Panther and Tiger respectively and each variant has 6 accent colors.
