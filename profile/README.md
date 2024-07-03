@@ -1,6 +1,6 @@
 # Welcome 
 Welcome to Whiskers. This is a color scheme that (hopefully) will grow as time goes on.
-We have two variants of the theme called Panther and Tiger respectively and each variant has 6 accent colors.
+There are two variants of the theme called Panther and Tiger and each variant has 6 accent colors.
 
 # Ports
 There are already some ports made for a few popular apps/ides like vscode, kde, spicetify.
